@@ -7,3 +7,4 @@
 [![Code Quality - Cppcheck](https://github.com/DeviTanuja/M1_Snake_and_Ladder/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/DeviTanuja/M1_Snake_and_Ladder/actions/workflows/c-cpp.yml)
 [![Analysis](https://github.com/DeviTanuja/M1_Snake_and_Ladder/actions/workflows/Analysis.yml/badge.svg)](https://github.com/DeviTanuja/M1_Snake_and_Ladder/actions/workflows/Analysis.yml)
 [![Analysis](https://github.com/DeviTanuja/M1_Snake_and_Ladder/actions/workflows/Analysis.yml/badge.svg)](https://github.com/DeviTanuja/M1_Snake_and_Ladder/actions/workflows/Analysis.yml)
+[![Analysis](https://github.com/DeviTanuja/M1_Snake_and_Ladder/actions/workflows/Analysis.yml/badge.svg)](https://github.com/DeviTanuja/M1_Snake_and_Ladder/actions/workflows/Analysis.yml)
